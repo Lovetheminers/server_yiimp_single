@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ###########################################
-# Created by Dirty Harry for YiiMP use... #
+# Created by Lovetheminers for YiiMP use... #
 ###########################################
 
 source /etc/functions.sh
