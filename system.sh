@@ -184,7 +184,7 @@ hide_output  git clone https://github.com/Lovetheminers/yiimp.git $STORAGE_ROOT/
 if 
 	cd $STORAGE_ROOT/yiimp/yiimp_setup/yiimp
 	
-fi
+
 echo -e " Downloading Low Difficulty Stratum...$COL_RESET"
 cd $STORAGE_ROOT/yiimp/yiimp_setup/yiimp
 hide_output sudo git clone https://github.com/DirtyHarryDev/stratum-lowdiff.git
