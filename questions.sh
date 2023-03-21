@@ -272,7 +272,7 @@ StratumDBUser='"${StratumDBUser}"'
 StratumUserDBPassword='"'"''"${StratumUserDBPassword}"''"'"'
 
 # Unless you do some serious modifications, this installer will not work with any other repo of YiiMP!
-YiiMPRepo='https://github.com/DirtyHarryDev/yiimp.git'
+YiiMPRepo='https://github.com/Lovetheminers/yiimp.git'
 ' | sudo -E tee $STORAGE_ROOT/yiimp/.yiimp.conf >/dev/null 2>&1
 else
 echo 'STORAGE_USER='"${STORAGE_USER}"'
@@ -300,7 +300,7 @@ StratumUserDBPassword='"'"''"${StratumUserDBPassword}"''"'"'
 YiiMPStratumName='"${YiiMPStratumName}"'
 
 # Unless you do some serious modifications, this installer will not work with any other repo of YiiMP!
-YiiMPRepo='https://github.com/DirtyHarryDev/yiimp.git'
+YiiMPRepo='https://github.com/Lovetheminers/yiimp.git'
 ' | sudo -E tee $STORAGE_ROOT/yiimp/.yiimp.conf >/dev/null 2>&1
 fi;;
 1)
